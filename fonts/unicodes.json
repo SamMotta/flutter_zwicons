@@ -1,0 +1,1703 @@
+[
+  {
+    "align-bottom": "e900"
+  },
+  {
+    "align-h": "e901"
+  },
+  {
+    "align-left": "e902"
+  },
+  {
+    "align-right": "e903"
+  },
+  {
+    "align-top": "e904"
+  },
+  {
+    "align-v": "e905"
+  },
+  {
+    "distribute-h": "e906"
+  },
+  {
+    "distribute-v": "e907"
+  },
+  {
+    "arrow-bottom-left": "e908"
+  },
+  {
+    "arrow-bottom-right": "e909"
+  },
+  {
+    "arrow-circle-down": "e90a"
+  },
+  {
+    "arrow-circle-left": "e90b"
+  },
+  {
+    "arrow-circle-right": "e90c"
+  },
+  {
+    "arrow-circle-up": "e90d"
+  },
+  {
+    "arrow-down": "e90e"
+  },
+  {
+    "arrow-left": "e90f"
+  },
+  {
+    "arrow-right": "e910"
+  },
+  {
+    "arrow-square-down": "e911"
+  },
+  {
+    "arrow-square-left": "e912"
+  },
+  {
+    "arrow-square-right": "e913"
+  },
+  {
+    "arrow-square-up": "e914"
+  },
+  {
+    "arrow-to-top": "e915"
+  },
+  {
+    "arrow-top-left": "e916"
+  },
+  {
+    "arrow-top-right": "e917"
+  },
+  {
+    "arrow-up": "e918"
+  },
+  {
+    "back": "e919"
+  },
+  {
+    "chevron-double-down": "e91a"
+  },
+  {
+    "chevron-double-left": "e91b"
+  },
+  {
+    "chevron-double-right": "e91c"
+  },
+  {
+    "chevron-double-up": "e91d"
+  },
+  {
+    "chevron-down": "e91e"
+  },
+  {
+    "chevron-left": "e91f"
+  },
+  {
+    "chevron-right": "e920"
+  },
+  {
+    "chevron-up": "e921"
+  },
+  {
+    "collapse-alt": "e922"
+  },
+  {
+    "collapse-alt2": "e923"
+  },
+  {
+    "collapse-down": "e924"
+  },
+  {
+    "collapse-left": "e925"
+  },
+  {
+    "collapse-right": "e926"
+  },
+  {
+    "collapse-up": "e927"
+  },
+  {
+    "collapse": "e928"
+  },
+  {
+    "continueIcon": "e929"
+  },
+  {
+    "expand-alt": "e92a"
+  },
+  {
+    "expand-alt2": "e92b"
+  },
+  {
+    "expand-down": "e92c"
+  },
+  {
+    "expand-h": "e92d"
+  },
+  {
+    "expand-left": "e92e"
+  },
+  {
+    "expand-right": "e92f"
+  },
+  {
+    "expand-up": "e930"
+  },
+  {
+    "expand-v": "e931"
+  },
+  {
+    "expand": "e932"
+  },
+  {
+    "loop": "e933"
+  },
+  {
+    "prioritize-down": "e934"
+  },
+  {
+    "prioritize-up": "e935"
+  },
+  {
+    "redo": "e936"
+  },
+  {
+    "refresh-double": "e937"
+  },
+  {
+    "refresh-left": "e938"
+  },
+  {
+    "refresh-right": "e939"
+  },
+  {
+    "restart": "e93a"
+  },
+  {
+    "split-h": "e93b"
+  },
+  {
+    "split-v": "e93c"
+  },
+  {
+    "undo": "e93d"
+  },
+  {
+    "cell-border-bottom": "e93e"
+  },
+  {
+    "cell-border-full": "e93f"
+  },
+  {
+    "cell-border-left": "e940"
+  },
+  {
+    "cell-border-right": "e941"
+  },
+  {
+    "cell-border-top": "e942"
+  },
+  {
+    "cell-empty": "e943"
+  },
+  {
+    "cell-full": "e944"
+  },
+  {
+    "cell-split-h": "e945"
+  },
+  {
+    "cell-split-v": "e946"
+  },
+  {
+    "cell-split": "e947"
+  },
+  {
+    "archive": "e948"
+  },
+  {
+    "document": "e949"
+  },
+  {
+    "folder-delete": "e94a"
+  },
+  {
+    "folder-minus": "e94b"
+  },
+  {
+    "folder-open": "e94c"
+  },
+  {
+    "folder-plus": "e94d"
+  },
+  {
+    "folder": "e94e"
+  },
+  {
+    "note": "e94f"
+  },
+  {
+    "notebook": "e950"
+  },
+  {
+    "script": "e951"
+  },
+  {
+    "sticker": "e952"
+  },
+  {
+    "sticky-notes": "e953"
+  },
+  {
+    "tray-delete": "e954"
+  },
+  {
+    "tray-empty": "e955"
+  },
+  {
+    "tray-export": "e956"
+  },
+  {
+    "tray-import": "e957"
+  },
+  {
+    "tray-minus": "e958"
+  },
+  {
+    "tray-plus": "e959"
+  },
+  {
+    "tray-stack": "e95a"
+  },
+  {
+    "tray": "e95b"
+  },
+  {
+    "artboard": "e95c"
+  },
+  {
+    "brush": "e95d"
+  },
+  {
+    "clipboard": "e95e"
+  },
+  {
+    "copy-alt": "e95f"
+  },
+  {
+    "copy": "e960"
+  },
+  {
+    "crop": "e961"
+  },
+  {
+    "cut-alt": "e962"
+  },
+  {
+    "cut": "e963"
+  },
+  {
+    "drafting-compass": "e964"
+  },
+  {
+    "duplicate-alt": "e965"
+  },
+  {
+    "duplicate": "e966"
+  },
+  {
+    "eraser": "e967"
+  },
+  {
+    "eye-dropper": "e968"
+  },
+  {
+    "group": "e969"
+  },
+  {
+    "layer-stack": "e96a"
+  },
+  {
+    "magic-wand": "e96b"
+  },
+  {
+    "marker": "e96c"
+  },
+  {
+    "paint-bucket": "e96d"
+  },
+  {
+    "paint-roller": "e96e"
+  },
+  {
+    "palette": "e96f"
+  },
+  {
+    "paste-alt": "e970"
+  },
+  {
+    "paste": "e971"
+  },
+  {
+    "pen-circle": "e972"
+  },
+  {
+    "pen": "e973"
+  },
+  {
+    "pencil-circle": "e974"
+  },
+  {
+    "pencil": "e975"
+  },
+  {
+    "ruler-combined": "e976"
+  },
+  {
+    "ruler-h": "e977"
+  },
+  {
+    "ruler-v": "e978"
+  },
+  {
+    "stamp": "e979"
+  },
+  {
+    "table": "e97a"
+  },
+  {
+    "activity": "e97b"
+  },
+  {
+    "android": "e97c"
+  },
+  {
+    "apple": "e97d"
+  },
+  {
+    "bolt": "e97e"
+  },
+  {
+    "cloud-download": "e97f"
+  },
+  {
+    "cloud-minus": "e980"
+  },
+  {
+    "cloud-plus": "e981"
+  },
+  {
+    "cloud-upload": "e982"
+  },
+  {
+    "code": "e983"
+  },
+  {
+    "command": "e984"
+  },
+  {
+    "database": "e985"
+  },
+  {
+    "deploy": "e986"
+  },
+  {
+    "git-branch": "e987"
+  },
+  {
+    "git-commit": "e988"
+  },
+  {
+    "git-fork": "e989"
+  },
+  {
+    "git-merge": "e98a"
+  },
+  {
+    "git-pull": "e98b"
+  },
+  {
+    "ios": "e98c"
+  },
+  {
+    "lan-connection": "e98d"
+  },
+  {
+    "lan-error": "e98e"
+  },
+  {
+    "lan": "e98f"
+  },
+  {
+    "osx": "e990"
+  },
+  {
+    "repository": "e991"
+  },
+  {
+    "web": "e992"
+  },
+  {
+    "window-delete": "e993"
+  },
+  {
+    "window-minus": "e994"
+  },
+  {
+    "window-plus": "e995"
+  },
+  {
+    "window": "e996"
+  },
+  {
+    "windows": "e997"
+  },
+  {
+    "airpods-alt": "e998"
+  },
+  {
+    "airpods": "e999"
+  },
+  {
+    "apple-watch-smile": "e99a"
+  },
+  {
+    "apple-watch-time": "e99b"
+  },
+  {
+    "apple-watch": "e99c"
+  },
+  {
+    "cable-hdmi": "e99d"
+  },
+  {
+    "cable-jack": "e99e"
+  },
+  {
+    "cable-lan": "e99f"
+  },
+  {
+    "cable-lightning": "e9a0"
+  },
+  {
+    "cable-magsafe": "e9a1"
+  },
+  {
+    "cable-usb": "e9a2"
+  },
+  {
+    "cardboard-vr": "e9a3"
+  },
+  {
+    "controller-alt": "e9a4"
+  },
+  {
+    "controller": "e9a5"
+  },
+  {
+    "desktop": "e9a6"
+  },
+  {
+    "devices": "e9a7"
+  },
+  {
+    "floppy": "e9a8"
+  },
+  {
+    "gameboy": "e9a9"
+  },
+  {
+    "hard-drive": "e9aa"
+  },
+  {
+    "headphone": "e9ab"
+  },
+  {
+    "imac": "e9ac"
+  },
+  {
+    "ipad-h": "e9ad"
+  },
+  {
+    "ipad": "e9ae"
+  },
+  {
+    "iphone-h": "e9af"
+  },
+  {
+    "iphone-x-h": "e9b0"
+  },
+  {
+    "iphone-x": "e9b1"
+  },
+  {
+    "iphone": "e9b2"
+  },
+  {
+    "keyboard": "e9b3"
+  },
+  {
+    "laptop": "e9b4"
+  },
+  {
+    "mac-pro": "e9b5"
+  },
+  {
+    "macbook-pro": "e9b6"
+  },
+  {
+    "memory-card": "e9b7"
+  },
+  {
+    "mouse": "e9b8"
+  },
+  {
+    "phone-andorid-h": "e9b9"
+  },
+  {
+    "phone-andorid": "e9ba"
+  },
+  {
+    "phone-holding-double": "e9bb"
+  },
+  {
+    "phone-holding": "e9bc"
+  },
+  {
+    "plug": "e9bd"
+  },
+  {
+    "printer": "e9be"
+  },
+  {
+    "server-stack": "e9bf"
+  },
+  {
+    "smart-glasses": "e9c0"
+  },
+  {
+    "smart-tv": "e9c1"
+  },
+  {
+    "smart-watch-time": "e9c2"
+  },
+  {
+    "smart-watch": "e9c3"
+  },
+  {
+    "tablet-h": "e9c4"
+  },
+  {
+    "tablet": "e9c5"
+  },
+  {
+    "terminal": "e9c6"
+  },
+  {
+    "virtual-reality": "e9c7"
+  },
+  {
+    "voice-assistant": "e9c8"
+  },
+  {
+    "edit-circle": "e9c9"
+  },
+  {
+    "edit-pencil": "e9ca"
+  },
+  {
+    "edit-square-feather": "e9cb"
+  },
+  {
+    "edit-square": "e9cc"
+  },
+  {
+    "file-archive": "e9cd"
+  },
+  {
+    "file-audio": "e9ce"
+  },
+  {
+    "file-cloud": "e9cf"
+  },
+  {
+    "file-download": "e9d0"
+  },
+  {
+    "file-empty": "e9d1"
+  },
+  {
+    "file-export": "e9d2"
+  },
+  {
+    "file-font": "e9d3"
+  },
+  {
+    "file-graphic": "e9d4"
+  },
+  {
+    "file-image": "e9d5"
+  },
+  {
+    "file-import": "e9d6"
+  },
+  {
+    "file-pdf": "e9d7"
+  },
+  {
+    "file-search": "e9d8"
+  },
+  {
+    "file-sketch": "e9d9"
+  },
+  {
+    "file-table": "e9da"
+  },
+  {
+    "file-upload": "e9db"
+  },
+  {
+    "file-vector": "e9dc"
+  },
+  {
+    "file-video": "e9dd"
+  },
+  {
+    "filter-alt": "e9de"
+  },
+  {
+    "filter": "e9df"
+  },
+  {
+    "slider-circle-h": "e9e0"
+  },
+  {
+    "slider-circle-v": "e9e1"
+  },
+  {
+    "slider-rectangle-h": "e9e2"
+  },
+  {
+    "slider-rectangle-v": "e9e3"
+  },
+  {
+    "sort-alphabetic-down": "e9e4"
+  },
+  {
+    "sort-alphabetic-up": "e9e5"
+  },
+  {
+    "sort-amount-down": "e9e6"
+  },
+  {
+    "sort-amount-up": "e9e7"
+  },
+  {
+    "sort-numeric-down": "e9e8"
+  },
+  {
+    "sort-numeric-up": "e9e9"
+  },
+  {
+    "toggle-switch": "e9ea"
+  },
+  {
+    "bar-code-scan": "e9eb"
+  },
+  {
+    "bar-code": "e9ec"
+  },
+  {
+    "bid": "e9ed"
+  },
+  {
+    "bill": "e9ee"
+  },
+  {
+    "bitcoin-sign": "e9ef"
+  },
+  {
+    "bull-horn": "e9f0"
+  },
+  {
+    "coin": "e9f1"
+  },
+  {
+    "credit-card": "e9f2"
+  },
+  {
+    "diamond": "e9f3"
+  },
+  {
+    "dollar-sign": "e9f4"
+  },
+  {
+    "euro-sign": "e9f5"
+  },
+  {
+    "hammer": "e9f6"
+  },
+  {
+    "line-chart": "e9f7"
+  },
+  {
+    "lira-sign": "e9f8"
+  },
+  {
+    "money-bill": "e9f9"
+  },
+  {
+    "money-stack": "e9fa"
+  },
+  {
+    "package": "e9fb"
+  },
+  {
+    "piggy-bank": "e9fc"
+  },
+  {
+    "pound-sign": "e9fd"
+  },
+  {
+    "price-tag": "e9fe"
+  },
+  {
+    "qr-code-scan": "e9ff"
+  },
+  {
+    "qr-code": "ea00"
+  },
+  {
+    "receipt": "ea01"
+  },
+  {
+    "rubel-sign": "ea02"
+  },
+  {
+    "rupee-sign": "ea03"
+  },
+  {
+    "sale-badge": "ea04"
+  },
+  {
+    "shopping-bag-alt": "ea05"
+  },
+  {
+    "shopping-bag": "ea06"
+  },
+  {
+    "shopping-cart": "ea07"
+  },
+  {
+    "store": "ea08"
+  },
+  {
+    "wallet": "ea09"
+  },
+  {
+    "won-sign": "ea0a"
+  },
+  {
+    "yen-sign": "ea0b"
+  },
+  {
+    "flip-left-alt": "ea0c"
+  },
+  {
+    "flip-left": "ea0d"
+  },
+  {
+    "flip-right-alt": "ea0e"
+  },
+  {
+    "flip-right": "ea0f"
+  },
+  {
+    "double-tap-two": "ea10"
+  },
+  {
+    "double-tap": "ea11"
+  },
+  {
+    "drag": "ea12"
+  },
+  {
+    "flick-left-two": "ea13"
+  },
+  {
+    "flick-left": "ea14"
+  },
+  {
+    "flick-right-two": "ea15"
+  },
+  {
+    "flick-right": "ea16"
+  },
+  {
+    "horns": "ea17"
+  },
+  {
+    "pinch": "ea18"
+  },
+  {
+    "point": "ea19"
+  },
+  {
+    "press": "ea1a"
+  },
+  {
+    "scroll-down-two": "ea1b"
+  },
+  {
+    "scroll-down": "ea1c"
+  },
+  {
+    "scroll-h-two": "ea1d"
+  },
+  {
+    "scroll-h": "ea1e"
+  },
+  {
+    "scroll-up-two": "ea1f"
+  },
+  {
+    "scroll-up": "ea20"
+  },
+  {
+    "scroll-v-two": "ea21"
+  },
+  {
+    "scroll-v": "ea22"
+  },
+  {
+    "shaka": "ea23"
+  },
+  {
+    "spread": "ea24"
+  },
+  {
+    "tap-two": "ea25"
+  },
+  {
+    "tap": "ea26"
+  },
+  {
+    "two-drag": "ea27"
+  },
+  {
+    "add-item-alt": "ea28"
+  },
+  {
+    "add-item": "ea29"
+  },
+  {
+    "add-note": "ea2a"
+  },
+  {
+    "add-to-list": "ea2b"
+  },
+  {
+    "at": "ea2c"
+  },
+  {
+    "attach-document": "ea2d"
+  },
+  {
+    "paperclip": "ea2e"
+  },
+  {
+    "battery-full": "ea30"
+  },
+  {
+    "battery-low": "ea31"
+  },
+  {
+    "battery-mid": "ea32"
+  },
+  {
+    "battery-v": "ea33"
+  },
+  {
+    "bell-alt-ring": "ea34"
+  },
+  {
+    "bell-alt": "ea35"
+  },
+  {
+    "bell-slash": "ea36"
+  },
+  {
+    "bell-snooze": "ea37"
+  },
+  {
+    "bell": "ea38"
+  },
+  {
+    "block": "ea39"
+  },
+  {
+    "book-alt": "ea3a"
+  },
+  {
+    "book": "ea3b"
+  },
+  {
+    "bookmark": "ea3c"
+  },
+  {
+    "briefcase": "ea3d"
+  },
+  {
+    "calendar-day": "ea3e"
+  },
+  {
+    "calendar-month": "ea3f"
+  },
+  {
+    "calendar-never": "ea40"
+  },
+  {
+    "calendar-week": "ea41"
+  },
+  {
+    "calendar": "ea42"
+  },
+  {
+    "call-in": "ea43"
+  },
+  {
+    "call-out": "ea44"
+  },
+  {
+    "chat": "ea45"
+  },
+  {
+    "checkmark-circle": "ea46"
+  },
+  {
+    "checkmark-square": "ea47"
+  },
+  {
+    "checkmark": "ea48"
+  },
+  {
+    "clock": "ea49"
+  },
+  {
+    "close-circle": "ea4a"
+  },
+  {
+    "close-square": "ea4b"
+  },
+  {
+    "close": "ea4c"
+  },
+  {
+    "cog": "ea4d"
+  },
+  {
+    "comment": "ea4e"
+  },
+  {
+    "compass": "ea4f"
+  },
+  {
+    "delete": "ea50"
+  },
+  {
+    "download": "ea51"
+  },
+  {
+    "earth-alt": "ea52"
+  },
+  {
+    "earth": "ea53"
+  },
+  {
+    "exclamation-triangle": "ea54"
+  },
+  {
+    "exclamation-mark": "ea2f"
+  },
+  {
+    "export": "ea55"
+  },
+  {
+    "eye-slash": "ea56"
+  },
+  {
+    "eye": "ea57"
+  },
+  {
+    "face-id": "ea58"
+  },
+  {
+    "flag": "ea59"
+  },
+  {
+    "grid": "ea5a"
+  },
+  {
+    "hamburger-menu": "ea5b"
+  },
+  {
+    "heart": "ea5c"
+  },
+  {
+    "home": "ea5d"
+  },
+  {
+    "import": "ea5e"
+  },
+  {
+    "info-circle": "ea5f"
+  },
+  {
+    "lifebelt": "ea60"
+  },
+  {
+    "link": "ea61"
+  },
+  {
+    "lock-alt": "ea62"
+  },
+  {
+    "lock": "ea63"
+  },
+  {
+    "mail": "ea64"
+  },
+  {
+    "map-marker": "ea65"
+  },
+  {
+    "minus-circle": "ea66"
+  },
+  {
+    "minus-square": "ea67"
+  },
+  {
+    "minus": "ea68"
+  },
+  {
+    "more-h": "ea69"
+  },
+  {
+    "more-v": "ea6a"
+  },
+  {
+    "my-location": "ea6b"
+  },
+  {
+    "password": "ea6c"
+  },
+  {
+    "phone": "ea6d"
+  },
+  {
+    "pin": "ea6e"
+  },
+  {
+    "plus-circle": "ea6f"
+  },
+  {
+    "plus-square": "ea70"
+  },
+  {
+    "plus": "ea71"
+  },
+  {
+    "search": "ea72"
+  },
+  {
+    "send": "ea73"
+  },
+  {
+    "share": "ea74"
+  },
+  {
+    "shortcut": "ea75"
+  },
+  {
+    "sign-in": "ea76"
+  },
+  {
+    "sign-out": "ea77"
+  },
+  {
+    "thumbs-down": "ea78"
+  },
+  {
+    "thumbs-up": "ea79"
+  },
+  {
+    "trash": "ea7a"
+  },
+  {
+    "unlink": "ea7b"
+  },
+  {
+    "upload": "ea7c"
+  },
+  {
+    "user-circle": "ea7d"
+  },
+  {
+    "user-delete": "ea7e"
+  },
+  {
+    "user-follow": "ea7f"
+  },
+  {
+    "user-minus": "ea80"
+  },
+  {
+    "user-plus": "ea81"
+  },
+  {
+    "user": "ea82"
+  },
+  {
+    "users": "ea83"
+  },
+  {
+    "history": "ea84"
+  },
+  {
+    "task": "ea85"
+  },
+  {
+    "bottom-bar": "ea86"
+  },
+  {
+    "content-left": "ea87"
+  },
+  {
+    "content-right": "ea88"
+  },
+  {
+    "desktop-1": "ea89"
+  },
+  {
+    "desktop-2": "ea8a"
+  },
+  {
+    "desktop-3": "ea8b"
+  },
+  {
+    "half-h": "ea8c"
+  },
+  {
+    "half-v": "ea8d"
+  },
+  {
+    "layout-1": "ea8e"
+  },
+  {
+    "layout-2": "ea8f"
+  },
+  {
+    "layout-3": "ea90"
+  },
+  {
+    "layout-4": "ea91"
+  },
+  {
+    "layout-5": "ea92"
+  },
+  {
+    "left-bar": "ea93"
+  },
+  {
+    "margin": "ea94"
+  },
+  {
+    "right-bar": "ea95"
+  },
+  {
+    "sidebar": "ea96"
+  },
+  {
+    "three-h": "ea97"
+  },
+  {
+    "three-v": "ea98"
+  },
+  {
+    "to-bottom": "ea99"
+  },
+  {
+    "to-left": "ea9a"
+  },
+  {
+    "to-right": "ea9b"
+  },
+  {
+    "to-top": "ea9c"
+  },
+  {
+    "top-bar": "ea9d"
+  },
+  {
+    "airplay": "ea9e"
+  },
+  {
+    "broadcast": "ea9f"
+  },
+  {
+    "camera-alt": "eaa0"
+  },
+  {
+    "camera-alt2": "eaa1"
+  },
+  {
+    "camera": "eaa2"
+  },
+  {
+    "cast": "eaa3"
+  },
+  {
+    "collapse-wide": "eaa4"
+  },
+  {
+    "collapse1": "eaa5"
+  },
+  {
+    "disk": "eaa6"
+  },
+  {
+    "expand-wide": "eaa7"
+  },
+  {
+    "expand1": "eaa8"
+  },
+  {
+    "film-alt": "eaa9"
+  },
+  {
+    "film-play": "eaaa"
+  },
+  {
+    "film": "eaab"
+  },
+  {
+    "image-circle": "eaac"
+  },
+  {
+    "image-gallery": "eaad"
+  },
+  {
+    "image-wide": "eaae"
+  },
+  {
+    "image": "eaaf"
+  },
+  {
+    "microphone-mute": "eab0"
+  },
+  {
+    "microphone": "eab1"
+  },
+  {
+    "next-alt": "eab2"
+  },
+  {
+    "next": "eab3"
+  },
+  {
+    "panorama-h": "eab4"
+  },
+  {
+    "pause-alt": "eab5"
+  },
+  {
+    "pause": "eab6"
+  },
+  {
+    "play-alt": "eab7"
+  },
+  {
+    "play": "eab8"
+  },
+  {
+    "previous-alt": "eab9"
+  },
+  {
+    "previous": "eaba"
+  },
+  {
+    "shuffle": "eabb"
+  },
+  {
+    "video-alt": "eabc"
+  },
+  {
+    "video-camera": "eabd"
+  },
+  {
+    "video": "eabe"
+  },
+  {
+    "volume-low": "eabf"
+  },
+  {
+    "volume-max": "eac0"
+  },
+  {
+    "volume-mid": "eac1"
+  },
+  {
+    "volume-min": "eac2"
+  },
+  {
+    "wide-angle": "eac3"
+  },
+  {
+    "exclude": "eac4"
+  },
+  {
+    "flatten": "eac5"
+  },
+  {
+    "intersect": "eac6"
+  },
+  {
+    "substract-back": "eac7"
+  },
+  {
+    "substract-front": "eac8"
+  },
+  {
+    "unite": "eac9"
+  },
+  {
+    "height": "eaca"
+  },
+  {
+    "resize-alt": "eacb"
+  },
+  {
+    "resize": "eacc"
+  },
+  {
+    "scale-down": "eacd"
+  },
+  {
+    "scale-up": "eace"
+  },
+  {
+    "scale": "eacf"
+  },
+  {
+    "width": "ead0"
+  },
+  {
+    "rotate-axis-x": "ead1"
+  },
+  {
+    "rotate-axis-xy": "ead2"
+  },
+  {
+    "rotate-axis-y": "ead3"
+  },
+  {
+    "rotate-left": "ead4"
+  },
+  {
+    "rotate-right": "ead5"
+  },
+  {
+    "rotate-shape": "ead6"
+  },
+  {
+    "cursor-square": "ead7"
+  },
+  {
+    "cursor": "ead8"
+  },
+  {
+    "select-cursor": "ead9"
+  },
+  {
+    "select": "eada"
+  },
+  {
+    "shape-circle": "eadb"
+  },
+  {
+    "shape-cone": "eadc"
+  },
+  {
+    "shape-cube": "eadd"
+  },
+  {
+    "shape-cylinder": "eade"
+  },
+  {
+    "shape-octagonal": "eadf"
+  },
+  {
+    "shape-polygon": "eae0"
+  },
+  {
+    "shape-sphere": "eae1"
+  },
+  {
+    "shape-square": "eae2"
+  },
+  {
+    "laugh": "eae3"
+  },
+  {
+    "neutral": "eae4"
+  },
+  {
+    "sad": "eae5"
+  },
+  {
+    "smile": "eae6"
+  },
+  {
+    "bold": "eae7"
+  },
+  {
+    "draw-text-field": "eae8"
+  },
+  {
+    "font-height": "eae9"
+  },
+  {
+    "font-size": "eaea"
+  },
+  {
+    "font-width": "eaeb"
+  },
+  {
+    "font": "eaec"
+  },
+  {
+    "heading": "eaed"
+  },
+  {
+    "indent-left-alt": "eaee"
+  },
+  {
+    "indent-left": "eaef"
+  },
+  {
+    "indent-right-alt": "eaf0"
+  },
+  {
+    "indent-right": "eaf1"
+  },
+  {
+    "italic": "eaf2"
+  },
+  {
+    "list-bullet": "eaf3"
+  },
+  {
+    "list-number": "eaf4"
+  },
+  {
+    "outdent-left": "eaf5"
+  },
+  {
+    "outdent-right": "eaf6"
+  },
+  {
+    "paragraph": "eaf7"
+  },
+  {
+    "text-align-center": "eaf8"
+  },
+  {
+    "text-align-justify": "eaf9"
+  },
+  {
+    "text-align-left": "eafa"
+  },
+  {
+    "text-align-right": "eafb"
+  },
+  {
+    "text-cursor": "eafc"
+  },
+  {
+    "text-decoration": "eafd"
+  },
+  {
+    "text-field": "eafe"
+  },
+  {
+    "text": "eaff"
+  },
+  {
+    "underline": "eb00"
+  },
+  {
+    "wrap-img-left": "eb01"
+  },
+  {
+    "wrap-img-right": "eb02"
+  },
+  {
+    "wrap-left": "eb03"
+  },
+  {
+    "wrap-right": "eb04"
+  },
+  {
+    "transform-left": "eb05"
+  },
+  {
+    "transform-right": "eb06"
+  },
+  {
+    "ab-testing": "eb07"
+  },
+  {
+    "agile": "eb08"
+  },
+  {
+    "backlog": "eb09"
+  },
+  {
+    "design-studio": "eb0a"
+  },
+  {
+    "design-validation": "eb0b"
+  },
+  {
+    "information-architecture": "eb0c"
+  },
+  {
+    "interview": "eb0d"
+  },
+  {
+    "kanban-board": "eb0e"
+  },
+  {
+    "lego-serious-play": "eb0f"
+  },
+  {
+    "paper-prototype": "eb10"
+  },
+  {
+    "persona": "eb11"
+  },
+  {
+    "prototype-mobile": "eb12"
+  },
+  {
+    "prototype": "eb13"
+  },
+  {
+    "responsive": "eb14"
+  },
+  {
+    "screen-flow": "eb15"
+  },
+  {
+    "stand-up": "eb16"
+  },
+  {
+    "sticky-notes1": "eb17"
+  },
+  {
+    "usability": "eb18"
+  },
+  {
+    "user-flow": "eb19"
+  },
+  {
+    "user-interview": "eb1a"
+  },
+  {
+    "user-journey": "eb1b"
+  },
+  {
+    "cloud": "eb1c"
+  },
+  {
+    "cloudy-day": "eb1d"
+  },
+  {
+    "cloudy-night": "eb1e"
+  },
+  {
+    "heavy-rain-day": "eb1f"
+  },
+  {
+    "heavy-rain-night": "eb20"
+  },
+  {
+    "heavy-rain": "eb21"
+  },
+  {
+    "heavy-wind": "eb22"
+  },
+  {
+    "mild-rain-day": "eb23"
+  },
+  {
+    "mild-rain-night": "eb24"
+  },
+  {
+    "mild-rain": "eb25"
+  },
+  {
+    "moon": "eb26"
+  },
+  {
+    "rain-day": "eb27"
+  },
+  {
+    "rain-night": "eb28"
+  },
+  {
+    "rain": "eb29"
+  },
+  {
+    "snow-day": "eb2a"
+  },
+  {
+    "snow-night": "eb2b"
+  },
+  {
+    "snow": "eb2c"
+  },
+  {
+    "storm-day": "eb2d"
+  },
+  {
+    "storm-night": "eb2e"
+  },
+  {
+    "storm": "eb2f"
+  },
+  {
+    "sun": "eb30"
+  },
+  {
+    "temperature": "eb31"
+  },
+  {
+    "wind-alt": "eb32"
+  },
+  {
+    "wind-cloudy-day": "eb33"
+  },
+  {
+    "wind-cloudy-night": "eb34"
+  },
+  {
+    "wind-cloudy": "eb35"
+  },
+  {
+    "wind": "eb36"
+  }
+]
