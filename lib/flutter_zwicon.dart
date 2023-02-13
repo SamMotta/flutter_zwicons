@@ -1,4 +1,5 @@
 library flutter_zwicons;
+
 import "package:flutter/widgets.dart";
 import "package:flutter_zwicon/src/icon_data.dart";
 
