@@ -8,6 +8,6 @@ echo "Generating flutter_zwicons.dart file"
 dart ./tool/generate_icons.dart ./fonts/unicodes.json
 
 echo "Formatting flutter_zwicon.dart file"
-dartfmt -w ./lib/flutter_zwicon.dart
+dart format ./lib/flutter_zwicon.dart
 
 echo "Build process completed successfully"
