@@ -51,11 +51,10 @@ class _MyHomePageState extends State<MyHomePage> {
         title: const Text('ZWIcons Example'),
       ),
       body: Center(
-        child: 
-
-        ListView.builder(
+        child: ListView.builder(
           itemCount: iconDataList.length,
-          itemBuilder: (context, index) => iconCard(iconDataList[index], iconNameList[index]),
+          itemBuilder: (context, index) =>
+              iconCard(iconDataList[index], iconNameList[index]),
         ),
       ),
     );

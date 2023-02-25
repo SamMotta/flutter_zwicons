@@ -27,7 +27,8 @@ void main(List<String> args) {
   final List<Map<String, String>> icon = [];
 
   for (var element in splitContent) {
-    String el = element.replaceAll('"', emptyString).replaceAll('\r\n', emptyString);
+    String el =
+        element.replaceAll('"', emptyString).replaceAll('\r\n', emptyString);
 
     if (el.isEmpty) {
       continue;
@@ -42,7 +43,7 @@ void main(List<String> args) {
     if (iconName == "continue") {
       iconName += 'Icon';
     }
-    
+
     String iconCode = splitEl[1];
     iconCode = iconCode.replaceAll(r'\', emptyString);
 
